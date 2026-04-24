@@ -10,4 +10,4 @@
 - Core Game Start / Stop / Reset - Audrey
 - Basic Art Assets - Chapman
 - Power-ups / buffs - Raymond
-- Multiple Chars that unlock - Kasey
+- Multiple Chars that unlock - Kasey *
